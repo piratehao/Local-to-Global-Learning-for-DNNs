@@ -2,7 +2,7 @@
 
 ##Dependency
 
-python3, torch > 0.3
+python3, torch >= 0.3
 
 
 
